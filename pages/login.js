@@ -1,1 +1,1 @@
-// Placeholder for pages/login.js
+export default function Login() { return <div>Login Page Placeholder</div>; }

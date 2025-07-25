@@ -1,1 +1,1 @@
-// Placeholder for components/PlayerTable.js
+// PlayerTable placeholder

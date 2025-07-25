@@ -1,1 +1,1 @@
-// Placeholder for README.md
+# Sun Run Club Manager

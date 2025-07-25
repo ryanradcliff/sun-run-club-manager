@@ -1,1 +1,1 @@
-// Placeholder for supabaseAdmin.js
+// supabase admin setup placeholder

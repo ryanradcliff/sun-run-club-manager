@@ -1,1 +1,1 @@
-// Placeholder for supabaseClient.js
+// supabase client setup placeholder

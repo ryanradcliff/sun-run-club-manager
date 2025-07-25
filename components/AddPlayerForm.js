@@ -1,1 +1,1 @@
-// Placeholder for components/AddPlayerForm.js
+// AddPlayerForm placeholder

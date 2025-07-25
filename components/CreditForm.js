@@ -1,1 +1,1 @@
-// Placeholder for components/CreditForm.js
+// CreditForm placeholder

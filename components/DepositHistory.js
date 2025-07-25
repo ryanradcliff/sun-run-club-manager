@@ -1,1 +1,1 @@
-// Placeholder for components/DepositHistory.js
+// DepositHistory placeholder
